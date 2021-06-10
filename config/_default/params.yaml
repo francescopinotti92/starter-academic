@@ -29,13 +29,6 @@ address:
   postcode: ''
   country: United Kingdom
   country_code: UK
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: ''
-office_hours:
-  - ''
-  - ''
 appointment_url: 'h'
 contact_links:
   - icon: twitter
