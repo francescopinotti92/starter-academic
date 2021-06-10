@@ -26,7 +26,7 @@ address:
   city: Oxford
   country: United Kingdom
   country_code: UK
-appointment_url: 'h'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
