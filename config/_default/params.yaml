@@ -25,7 +25,7 @@ phone: ''
 address:
   street: ''
   city: Oxford
-  region: CA
+  region: UK
   postcode: ''
   country: United Kingdom
   country_code: UK
@@ -40,7 +40,7 @@ appointment_url: 'h'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: find me on Twitter
     link: 'https://twitter.com/fpinotti92'
 
 # Site header
