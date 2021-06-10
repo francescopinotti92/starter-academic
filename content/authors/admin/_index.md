@@ -19,13 +19,13 @@ bio: ""
 # Interests to show in About widget
 interests:
 - Computational epidemiology
-- Ecology of infectious diseases
+- Ecology of infectious disease
 - Programming
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Epidemiology and Public Health
     institution: Université Paris-Sorbonne
     year: 2019
 
