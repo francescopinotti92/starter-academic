@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications  # Title of the link.
-    url: "/content/publications"  # Widget Page folder name.
+    url: "/publications"  # Widget Page folder name.
     weight: 20  # Position of the link in the navigation bar.
   #- name: Posts
   #  url: '#posts'
