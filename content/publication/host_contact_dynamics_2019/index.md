@@ -1,7 +1,7 @@
 +++
 title = "Host contact dynamics shapes richness and dominance of pathogen strains"
 date = "2019-01-01"
-authors = ["**Francesco Pinotti**", "Éric Fleury", "Didier Guillemot", "Pierre-Yves Boëlle", "Chiara Poletto"]
+authors = ["Francesco Pinotti", "Éric Fleury", "Didier Guillemot", "Pierre-Yves Boëlle", "Chiara Poletto"]
 publication_types = ["2"]
 publication = "PLOS Computational Biology, (15), 5, _pp. e1006530_, https://doi.org/10.1371/journal.pcbi.1006530"
 publication_short = "PLOS Computational Biology, (15), 5, _pp. e1006530_, https://doi.org/10.1371/journal.pcbi.1006530"
