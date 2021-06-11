@@ -1,6 +1,6 @@
 +++
 title = "Tracing and analysis of 288 early SARS-CoV-2 infections outside China: A modeling study"
-date = "2020-01-01"
+date = "2020-07-17"
 authors = ["Francesco Pinotti", "Laura Di Domenico", "Ernesto Ortega", "Marco Mancastroppa", "Giulia Pullano", "Eugenio Valdano", "Pierre-Yves Boëlle", "Chiara Poletto", "Vittoria Colizza"]
 publication_types = ["2"]
 publication = "PLOS Medicine, (17), 7, _pp. e1003193_, https://doi.org/10.1371/journal.pmed.1003193"
