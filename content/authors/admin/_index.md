@@ -20,7 +20,7 @@ bio: ""
 interests:
 - Computational epidemiology
 - Ecology of infectious disease
-- Programming
+- Computer programming
 
 # Education to show in About widget
 education:
@@ -65,4 +65,4 @@ I'm a Postdoctoral Researcher in the Evolutionary Ecology of Infectious Disease 
 
 I'm currently developing a computational and mathematical framework to better understand the transmission and evolution of avian influenza and other multi-strain pathogens along poultry production and distribution systems. More in general, I'm interested in the dynamics and ecology of interacting infectious diseases, with a particular focus on the role of host-related factors in shaping pathogen ecology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Francesco_Pinotti_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
