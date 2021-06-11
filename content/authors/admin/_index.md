@@ -52,7 +52,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/Francesco_Pinotti_CV.pdf
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +65,4 @@ I'm a Postdoctoral Researcher in the Evolutionary Ecology of Infectious Disease 
 
 I'm currently developing a computational and mathematical framework to better understand the transmission and evolution of avian influenza and other multi-strain pathogens along poultry production and distribution systems. More in general, I'm interested in the dynamics and ecology of interacting infectious diseases, with a particular focus on the role of host-related factors in shaping pathogen ecology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Francesco_Pinotti_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
