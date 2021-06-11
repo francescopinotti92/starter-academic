@@ -6,7 +6,7 @@ title: Francesco Pinotti
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,8 +26,17 @@ interests:
 education:
   courses:
   - course: PhD in Epidemiology and Public Health
-    institution: Université Paris-Sorbonne
+    institution: INSERM, Sorbonne Université
     year: 2019
+  - course: MSc in Physics of Complex Systems
+    institution: Université Paris Sud 
+    year: 2016
+  - course: MSc in Physics
+    institution: Università degli Studi di Ferrara
+    year: 2016
+  - course: BSc in Physics
+    institution: Università degli Studi di Ferrara
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
