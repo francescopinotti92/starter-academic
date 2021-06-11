@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Francesco Pinotti is a Postdoctoral Researcher in the Evolutionary Ecology of Infectious Disease (EEID) group at the University of Oxford.
+I'm a Postdoctoral Researcher in the Evolutionary Ecology of Infectious Disease (EEID) group at the University of Oxford.
 
-He is developing a computational and mathematicl framework to better understand the transmission and evolution of avian influenza and other multi-strain pathogens along poultry production and distribution systems. More generally, he is interested in the dynamics and ecology of interacting infectious diseases, with a particular focus on the role of host-related factors in shaping pathogen ecology. His research work combines both analytical and computational tools in order to better understand the (multi-scale) dynamics of pathogens. 
+I'm currently developing a computational and mathematical framework to better understand the transmission and evolution of avian influenza and other multi-strain pathogens along poultry production and distribution systems. More in general, I'm interested in the dynamics and ecology of interacting infectious diseases, with a particular focus on the role of host-related factors in shaping pathogen ecology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
