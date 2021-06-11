@@ -20,7 +20,7 @@ bio: ""
 interests:
 - Computational epidemiology
 - Ecology of infectious disease
-- Computer programming
+- Network science
 
 # Education to show in About widget
 education:
@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-I'm a Postdoctoral Researcher in the Evolutionary Ecology of Infectious Disease (EEID) group at the University of Oxford.
+I'm a Postdoctoral Researcher in the [Evolutionary Ecology of Infectious Disease (EEID)](https://www.eeid.ox.ac.uk/) group at the University of Oxford.
 
-I'm currently developing a computational and mathematical framework to better understand the transmission and evolution of avian influenza and other multi-strain pathogens along poultry production and distribution systems. More in general, I'm interested in the dynamics and ecology of interacting infectious diseases, with a particular focus on the role of host-related factors in shaping pathogen ecology.
+I'm currently collaborating with the [One Health Poultry Hub](https://www.onehealthpoultry.org/) in order to develop a modelling framework to better understand the transmission of avian influenza, *Campylobacter* and other foodborne pathogens in poultry production & distribution systems. 
+
+More in general, I'm interested in the dynamics and ecology of interacting pathogens and in the role played by host behaviour in shaping pathogen ecology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
